@@ -67,7 +67,7 @@
     "postpack": "pinst --enable"
   },
   "dependencies": {
-    "svelte2tsx": "^0.1.151"
+    "svelte2tsx": "^0.6.22"
   },
   "peerDependencies": {
     "svelte": "4.x"
